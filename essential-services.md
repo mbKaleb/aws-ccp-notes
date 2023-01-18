@@ -26,6 +26,23 @@
 
 
 
- ## Self Service, 
+# Service Types
 
- ## Managed 
+ ## Self Service
+
+ EC2, S3, ECS, EKS
+
+ - Do it yourself
+
+ - Full control
+
+ - Underlying is still controlled by AWS
+
+
+ ## Managed
+
+ - AWS manages the hard parts 
+
+ - Partly configurable
+
+ - Can be used together with other services (incl. self-service)
