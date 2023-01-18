@@ -8,11 +8,15 @@
  
  Easily connect to EBS or EFS for persistent storage. 
 
- ## EBS 
+ ## EKS, Elastic Kuberneties Service
+
+ EKS is a managed kubernetes service in the AWS cloud. In the could AWS handles the scalability of the Kubernetes control plane nodes responsible for scheduling containers, maniging application availability, storing cluster data, and other key tasks.
+
+ ## EBS
+
+  
 
  ## ECS
-
- ## EKS
 
  ## S3
 
